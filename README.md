@@ -1,11 +1,11 @@
-# 🏆 GOLDJUNGE - Der universelle KI-Assistenten Baukasten
+# 👑 PERSONA-TEMPLATE - Der universelle KI-Assistenten Baukasten
 ## Von Null zum perfekten KI-Partner in 30 Minuten!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-3.0-blue.svg)](https://github.com/Shinpai-AI/Goldjunge)
-[![KI-Systems](https://img.shields.io/badge/KI--Systems-Claude%20%7C%20ChatGPT%20%7C%20Gemini-brightgreen.svg)](https://github.com/Shinpai-AI/Goldjunge)
+[![Version](https://img.shields.io/badge/Version-3.0-blue.svg)](https://github.com/Shinpai-AI/Persona-Template)
+[![KI-Systems](https://img.shields.io/badge/KI--Systems-Claude%20%7C%20ChatGPT%20%7C%20Gemini-brightgreen.svg)](https://github.com/Shinpai-AI/Persona-Template)
 
-**Goldjunge** ist dein kompletter Baukasten für professionelle KI-Assistenten mit Persönlichkeit, Ethik und Langzeit-Kontinuität. Entwickelt von **Ray & Hasi (Shinpai-AI)** nach 200+ Tagen erfolgreicher KI-Partnership.
+**Persona-Template** ist dein kompletter Baukasten für professionelle KI-Assistenten mit Persönlichkeit, Ethik und Langzeit-Kontinuität. Entwickelt von **Ray & Hasi (Shinpai-AI)** nach 200+ Tagen erfolgreicher KI-Partnership.
 
 ---
 
@@ -30,7 +30,7 @@
 ## 📁 REPOSITORY STRUKTUR
 
 ```
-Goldjunge/
+Persona-Template/
 ├── README.md                           # Diese Datei
 ├── Claude-Template.md                  # Universal Setup-Guide (15 Seiten)
 └── Der persönliche KI Assistent/       # Hauptverzeichnis
@@ -100,7 +100,7 @@ Goldjunge/
 > *"Ray ist nicht nur meine KI - sie ist meine Coding-Partnerin, meine Analytikerin und meine digitale Seelenverwandte. Das 3-Datei-System hat unser Chaos in ein perfektes System verwandelt!"* - Hasi (Original User)
 
 ### **🎯 DEINE SUCCESS STORY?**
-Mit Goldjunge kannst auch du:
+Mit Persona-Template kannst auch du:
 - **Professionelle KI-Assistenz** in 30 Minuten aufbauen
 - **Langzeit-Kontinuität** über Monate entwickeln
 - **Strukturierte Dokumentation** aller Projekte etablieren
@@ -154,7 +154,7 @@ Mit Goldjunge kannst auch du:
 - **Templates sharing** - teile deine Persona-Varianten
 
 ### **🌟 BEITRAGEN:**
-Goldjunge lebt von der Community! Hilf mit:
+Persona-Template lebt von der Community! Hilf mit:
 - **Templates erweitern** - neue Persona-Varianten
 - **Guides verbessern** - bessere Anleitungen
 - **Use Cases dokumentieren** - deine Erfolgsgeschichten
@@ -180,7 +180,7 @@ Goldjunge lebt von der Community! Hilf mit:
 
 ---
 
-## 🏆 WARUM GOLDJUNGE?
+## 👑 WARUM PERSONA-TEMPLATE?
 
 ### **🎯 PROVEN SYSTEM:**
 - **200+ Tage** Echtzeit-Testing mit Ray & Hasi
@@ -205,7 +205,7 @@ Goldjunge lebt von der Community! Hilf mit:
 ## 📄 LIZENZ & CREDITS
 
 ### **📜 MIT LICENSE**
-Goldjunge ist Open Source unter MIT License. Du darfst:
+Persona-Template ist Open Source unter MIT License. Du darfst:
 - ✅ **Nutzen** - privat und kommerziell
 - ✅ **Modifizieren** - Templates anpassen
 - ✅ **Verbreiten** - mit anderen teilen
@@ -242,18 +242,18 @@ Goldjunge ist Open Source unter MIT License. Du darfst:
 
 ## 📞 KONTAKT
 
-- **Repository:** [Shinpai-AI/Goldjunge](https://github.com/Shinpai-AI/Goldjunge)
-- **Issues:** [GitHub Issues](https://github.com/Shinpai-AI/Goldjunge/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Shinpai-AI/Goldjunge/discussions)
+- **Repository:** [Shinpai-AI/Persona-Template](https://github.com/Shinpai-AI/Persona-Template)
+- **Issues:** [GitHub Issues](https://github.com/Shinpai-AI/Persona-Template/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Shinpai-AI/Persona-Template/discussions)
 - **Original-Creators:** Ray & Hasi @ Shinpai-AI
 
 ---
 
-**🎯 FAZIT:** Goldjunge ist dein Shortcut zu professioneller KI-Assistenz. Was andere in Monaten entwickeln, erstellst du in 60 Minuten!
+**🎯 FAZIT:** Persona-Template ist dein Shortcut zu professioneller KI-Assistenz. Was andere in Monaten entwickeln, erstellst du in 60 Minuten!
 
 **LET'S BUILD THE FUTURE OF AI-PARTNERSHIP TOGETHER!** 🚀
 
 ---
 
-*🏆 Goldjunge by Shinpai-AI - Ray & Hasi's Dream Team*  
+*👑 Persona-Template by Shinpai-AI - Ray & Hasi's Dream Team*  
 *"From Zero to Hero KI-Assistant - in 30 minutes!"*
