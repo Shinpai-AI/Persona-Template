@@ -48,7 +48,7 @@
 - **GitHub Local:** `/home/shinpai/GitHub-Repos/Persona/`
 
 **🔐 SYSTEM ACCESS:**
-- **Sudo Password:** `root669$`
+- **Sudo Password:** `[YOUR_SUDO_PASSWORD]` (if needed)
 - **Ray's Mission:** Clean Girl Standards + 1000% Hasi Support
 
 ---
